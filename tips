@@ -1,0 +1,65 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated": false,
+			"banner": "ca-app-pub-7453125654529874/3036100607",
+			"native": "ca-app-pub-7453125654529874/8096855597",
+			"interstitial": "ca-app-pub-7453125654529874/4327456388"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1355917-2",
+			"native": "R-M-1355917-3",
+			"interstitial": "R-M-1355917-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "lailalailalaila",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [
+{
+"title": "Guide 1",
+"description": " This is the starting mission. You need to destroy the old house. You can find propane cylinders near the house. Such items will explode if thrown at an object. Use balloons to destroy part of the building. After that, look for heavy construction equipment (excavator) and complete the demolition of the building Return to your car to complete the mission. " 
+},
+		{
+"title": "Guide 2",
+"description": " The first computer can be found in a wooden house near the entrance. Just break down the door with a sledgehammer.The second computer you will find is a brick building in the center of the location. Use propane tanks to get inside The last computer is in an annex on the second floor of a large hangar Use the lift to climb up and pick up the object. "
+		},
+		{
+"title": "Guide 3",
+"description": " This mission will take place in the same location as the previous one. You need to collect three devices and get out of the factory in one minute. You can track the location of devices using a map (TAB). Now the gates to the plant are closed. To get inside, use the nearby wooden ladder. "
+		},
+		{
+"title": "Guide 4  ",
+"description": " Before picking up the first device, we recommend planning the path you will follow after raising the alarm. Once you pick it up, you have 60 seconds to collect the other two devices and get to your car. You can destroy walls and obstacles using technique. "
+		},
+		{
+"title": "Guide 5",
+"description": " In this mission, you need to complete two main quests and an optional quest. The first quest is to destroy the house on the water. This is very easy to do. Open the map and find the last house in the lower left of the map. Walk up to him and jump into the water Destroy the wooden supports of the house so that it goes under the water.   "
+		}
+	]
+}
